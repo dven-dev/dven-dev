@@ -10,7 +10,7 @@
 ---
 
 ## 🧑‍💻 О себе
-Я начинающий фронтенд-разработчик. Люблю создавать удобные интерфейсы, интересуюсь бэкендом на Node.js и постоянно учусь новому.
+Люблю создавать удобные интерфейсы, интересуюсь бэкендом на Node.js и постоянно учусь новому.
 
 ---
 
@@ -33,9 +33,11 @@
 
 ---
 
-## 📌 Проекты
-- [RSS Reader](#) – агрегатор новостей с валидацией форм и i18n  
-- [Todo App](#) – простое приложение для заметок на React  
+## 📌 Учебные проекты
+- [Brain games](#) - набор консольных игр
+- [Gendiff](#) - утилита для сравнения двух конфигурационных файлов
+- [RSS Reader](#) – агрегатор новостей с валидацией форм и i18n
+- [Чат (аналог Slack)](#) - чат с авторизацией, регистрацией и каналами на React 
 
 ---
 
@@ -68,7 +70,7 @@ Node.js, работу с API, тестирование (Jest).
 ---
 
 ## 🧑‍💻 About me
-I’m a junior frontend developer, passionate about building user-friendly interfaces. Currently exploring backend development with Node.js.
+I enjoy building user-friendly interfaces, have an interest in backend development with Node.js, and am constantly learning new things.
 
 ---
 
@@ -91,9 +93,11 @@ I’m a junior frontend developer, passionate about building user-friendly inter
 
 ---
 
-## 📌 Projects
+## 📌 Educational Projects
+- [Brain games](#) – a set of console games  
+- [Gendiff](#) – a utility for comparing two configuration files  
 - [RSS Reader](#) – a news aggregator with form validation and i18n  
-- [Todo App](#) – a simple task manager built with React  
+- [Chat (Slack clone)](#) – a chat application with authentication, registration, and channels built with React
 
 ---
 
