@@ -3,12 +3,8 @@
 💻 JavaScript Developer  
 📍 Saint Petersburg | Open to opportunities  
 
---
-
 ## 🧑‍💻 About me
 I enjoy building user-friendly interfaces, have an interest in backend development with Node.js, and am constantly learning new things.
-
----
 
 ## 🛠 Tech Stack
 <p>
@@ -26,33 +22,22 @@ I enjoy building user-friendly interfaces, have an interest in backend developme
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
 </p>
 
----
-
 ## 📌 Educational Projects
 - [Brain games](#) – a set of console games  
 - [Gendiff](#) – a utility for comparing two configuration files  
 - [RSS Reader](#) – a news aggregator with form validation and i18n  
 - [Chat (Slack clone)](#) – a chat application with authentication, registration, and channels built with React  
 
----
-
 ## 🚀 Currently learning
 Node.js, API integration, and testing with Jest.  
 
----
-
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dven-dev&layout=compact&theme=github_dark)
-
----
 
 ## 📬 Contacts
 - Telegram: [@dven_dev](https://t.me/dven_dev)  
 - Email: me@dven.dev  
 - LinkedIn: coming soon ✍️  
 
----
 
 > 💡 "In Cod We Trust"
-
----
