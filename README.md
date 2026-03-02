@@ -1,7 +1,3 @@
-[🇬🇧 English](#-hi-my-name-is-dominika) | [🇷🇺 Русский](#-привет-меня-зовут-доминика)
-
----
-
 # 👋 Hi! My name is Dominika.
 
 💻 JavaScript Developer  
