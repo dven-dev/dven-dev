@@ -3,7 +3,7 @@
 💻 JavaScript Developer  
 📍 Saint Petersburg | Open to opportunities  
 
----
+--
 
 ## 🧑‍💻 About me
 I enjoy building user-friendly interfaces, have an interest in backend development with Node.js, and am constantly learning new things.
