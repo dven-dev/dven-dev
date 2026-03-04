@@ -1,6 +1,6 @@
 # 👋 Hi! My name is Dominika.
 
-💻 JavaScript Developer from Saint Petersburg, RU. I enjoy building user-friendly interfaces, have an interest in backend development with Node.js, and am constantly learning new things.
+JavaScript Developer from Saint Petersburg, RU. I enjoy building user-friendly interfaces, have an interest in backend development with Node.js, and am constantly learning new things.
 
 ## 🛠 Tech Stack
 <p>
