@@ -1,10 +1,6 @@
 # 👋 Hi! My name is Dominika.
 
-💻 JavaScript Developer  
-📍 Saint Petersburg | Open to opportunities  
-
-## 🧑‍💻 About me
-I enjoy building user-friendly interfaces, have an interest in backend development with Node.js, and am constantly learning new things.
+💻 JavaScript Developer from Saint Petersburg, RU. I enjoy building user-friendly interfaces, have an interest in backend development with Node.js, and am constantly learning new things.
 
 ## 🛠 Tech Stack
 <p>
@@ -28,11 +24,6 @@ I enjoy building user-friendly interfaces, have an interest in backend developme
 - [RSS Reader](#) – a news aggregator with form validation and i18n  
 - [Chat (Slack clone)](#) – a chat application with authentication, registration, and channels built with React  
 
-## 🚀 Currently learning
-Node.js, API integration, and testing with Jest.  
-
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dven-dev&layout=compact&theme=github_dark)
 
 ## 📬 Contacts
 - Telegram: [@dven_dev](https://t.me/dven_dev)  
